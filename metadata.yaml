@@ -1,0 +1,38 @@
+_repo: Deberes-de-buena-sociedad_60510
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Baró, Teodoro
+    alias: Baro, Teodoro
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '50935'
+    url: http://www.gutenberg.org/2009/agents/50935
+    wikipedia: https://es.wikipedia.org/wiki/Teodoro_Bar%C3%B3_y_Sureda
+creator:
+  author:
+    agent_name: Fabra, Camilo
+    aliases:
+    - Fontanills, Camil Fabra i
+    - Fabra i Fontanills, Camil
+    - Fontanills, Camilo Fabra y
+    birthdate: 1833
+    deathdate: 1902
+    gutenberg_agent_id: '50991'
+    url: http://www.gutenberg.org/2009/agents/50991
+    wikipedia: https://es.wikipedia.org/wiki/Camilo_Fabra
+description: ''
+gutenberg_issued: '2019-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60510'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette -- Spain -- 19th century'
+- !lcc 'BJ'
+- GITenberg
+title: Deberes de buena sociedad
+url: http://www.gutenberg.org/ebooks/60510
